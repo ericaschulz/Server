@@ -1,4 +1,4 @@
-require './rainbow'
+require 'rainbow'
 require './models/smile'
 require './app'
 
